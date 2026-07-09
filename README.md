@@ -8,10 +8,10 @@ Aeon Alphonse E. Mauricio - foobar-trashdump
 Zamuel Paolo L. Robes - zamuelrobes-cmd
 
 ### PROBLEM STATEMENT & GOALS
-Discrete Mathematics is a core subject in many Computer Studies, Engineering, and Mathematics programs, which are all incidentally offered at De La Salle University (DLSU). This subject is known to be difficult for students to convert English statements into formal discrete mathematics notation, particularly in propositional logic, predicate logic, and basic set theory. The project aims to address this learning gap by providing a rule-based translator that converts supported English sentence patterns to mathematical expressions.
+Discrete Mathematics is a core subject in many Computer Studies, Engineering, and Mathematics programs. Students often find it challenging to convert English statements into formal discrete mathematics notation, particularly in topics such as propositional logic, predicate logic, and basic set theory. The project aims to address this learning gap by providing a rule-based translator that converts supported English sentence patterns into their corresponding discrete mathematics notation.
 
 The project aims to:
-- Translate supported English statements into discrete mathematical notation.
+- Translate supported English statements into formal discrete mathematics notation.
 - Help students understand the relationship between English statements and mathematical symbols.
 - Provide a simple, user-friendly educational tool developed with object-oriented programming (OOP) principles.
 
@@ -19,7 +19,7 @@ The project aims to:
 - Information Technology students
 - Computer Science students
 - Computer Engineering students
-- Engineering students taking discrete mathematics
+- Engineering students taking Discrete Mathematics
 - Mathematics students taking introductory logic and set theory.
 
 ### BRIEF DESCRIPTION
