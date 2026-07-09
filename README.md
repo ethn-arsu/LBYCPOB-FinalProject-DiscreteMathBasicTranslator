@@ -38,15 +38,21 @@ After the translation, the program displays mathematical notation along with an 
 - ConditionalRule: Implements translation for implication statements.
 - ConjunctionRule: Implements translation for conjunction statements.
 - NegationRule: Implements translation for negation statements.
-- TranslatorEngine: Controller class that orchestrates the translation workflow.
+- TranslatorEngine: Coordinates the translation process by selecting the appropriate rule based on user input.
 - Expression: Stores the original English statement, mathematical notation, and generated explanation.
+- TranslationResult: Stores the final notation, assigned variables, detected rule, and explanation before displaying it to the user.
 - UserInterface: Handles user interaction via JavaFX.
 
 ### USER STORIES
 - As an engineering student, I want to input an implication statement so that I can instantly see its formal notation.
 - As a struggling discrete math student, I want to see a breakdown of the translation process so that I may learn and improve my discrete math skills.
+- As a computer science student, I want to know when my input is unsupported so I can rewrite it correctly.
 
 ### CORE FEATURES:
-- Pattern Matching & Translation
-- Legend & Variable Assignment
-- Step-by-step Breakdown
+- Rule-based pattern matching to recognize supported English sentence structures.
+- Translation of English statements into discrete mathematics notation.
+- Automatic variable assignment (e.g., P, Q, R) for identified propositions.
+- Legend generation that maps variables to their corresponding English statement.
+- Step-by-step explanation of how the translation is performed.
+- Program feedback for unsupported or invalid inputs.
+- 'Supported Formats' reference page containing examples of accepted sentence patterns.
