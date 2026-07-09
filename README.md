@@ -40,7 +40,7 @@ The program uses a rule-based approach and supports predefined sentence structur
   Each translation rule overrides shared methods defined in the parent class. At runtime, the program will determine the appropriate translation rule based on the user's input and executes the corresponding implementation without needing to know the specific translation being used. 
   
 - Abstraction:
-  The TranslationRule abstract class defines common behaviors that ecvery translation rule must implement without specifying how they are performed. The main translator interacts with these rules through the abstract class, allowing it to use the different translation rules without depending on their individual implementations.
+  The TranslationRule abstract class defines common behaviors that every translation rule must implement without specifying how they are performed. The main translator interacts with these rules through the abstract class, allowing it to use the different translation rules without depending on their individual implementations.
 
 ### INITIAL CLASS IDEAS
 - TranslationRule: Abstract class that serves as the blueprint for all translation rules.
