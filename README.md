@@ -27,6 +27,8 @@ The Discrete Math Translator is a Java-based program designed to translate stand
 
 After the translation, the program displays mathematical notation along with an explanation of which logical rules were found and how they are present in the given sentence. If the entered statement does not match any supported pattern, the application will handle the exception, inform the user which kind of input is accepted by the program, and suggest supported input formats. 
 
+The program uses a rule-based approach and supports predefined sentence structures commonly used in introductory Discrete Mathematics. As such, the program is not intended for translating unrestricted natural language.
+
 ### CORE OOP CONCEPTS
 - Encapsulation: The logic components/ translation rules will contain their own internal data and logic. Program objects contain private fields and public methods, allowing controlled access through said methods.
 - Inheritance: Different translation rules inherit the methods from a shared parent class.
