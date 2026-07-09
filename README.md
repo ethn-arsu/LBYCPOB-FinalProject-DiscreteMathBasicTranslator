@@ -63,7 +63,7 @@ The program uses a rule-based approach and supports predefined sentence structur
 - Main Menu:
 <img width="1920" height="1080" alt="1" src="https://github.com/user-attachments/assets/e8b9b66e-494a-4557-b29a-d0b1be564a4d" />
 
--Translation Page:
+- Translation Page:
 <img width="1920" height="1080" alt="2" src="https://github.com/user-attachments/assets/5378538b-a96d-4ef9-9723-638d30d094fe" />
 
 - Results:
@@ -72,7 +72,7 @@ The program uses a rule-based approach and supports predefined sentence structur
 - Supported Formats page:
 <img width="1920" height="1080" alt="4" src="https://github.com/user-attachments/assets/13711bc3-6b1f-4306-b00b-d1244246185a" />
 
--About page
+- About page
 <img width="1920" height="1080" alt="5" src="https://github.com/user-attachments/assets/9d4b37c7-a259-4cde-861d-aed9d755587d" />
 
 
