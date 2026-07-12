@@ -1,10 +1,10 @@
-package org.example;
+package ph.edu.dlsu.lbycpob;
 
 /**
  * Hello world!
  *
  */
-public class App 
+public class Main
 {
     public static void main( String[] args )
     {
