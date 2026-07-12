@@ -68,7 +68,7 @@ The program uses a rule-based approach and supports predefined sentence structur
 - As a struggling discrete math student, I want to see a breakdown of the translation process so that I may learn and improve my discrete math skills.
 - As a computer science student, I want to know when my input is unsupported so I can rewrite it correctly.
 
-### CORE FEATURES:
+### CORE FEATURES
 - Pattern Matching & Translation:
     - Rule-based pattern matching to recognize supported English sentence structures.
     - Translation of English statements into discrete mathematics notation.
@@ -80,7 +80,7 @@ The program uses a rule-based approach and supports predefined sentence structur
     - User-friendly feedback for unsupported or invalid sentence structures.
     - "Supported Formats" reference page containing examples of accepted sentence patterns.
   
-### SAMPLE IMAGES:
+### SAMPLE IMAGES
 - Main Menu:
 <img width="1920" height="1080" alt="1" src="https://github.com/user-attachments/assets/e8b9b66e-494a-4557-b29a-d0b1be564a4d" />
 
